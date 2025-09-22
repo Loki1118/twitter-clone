@@ -1,0 +1,1 @@
+export const baseUrl = "https://twitter-clone-uift.onrender.com" 
